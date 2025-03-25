@@ -1,5 +1,17 @@
+header {
+  background-color: #67423b;
+  height: 10px;
+  width: 100%;
+}
+
 h1 {
   text-align: center;
   color: green;
   font-family: "Lucida Console", "Courier New", monospace;
+}
+
+footer {
+  background-colour: #67423b;
+  height: 10px;
+  height: 100%;
 }
